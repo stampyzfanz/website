@@ -5,6 +5,7 @@ date: 2019-10-11
 video_id: 4uU9lZ-HSqA
 web_editor: qa7RiptE9
 repository: Cabana_001_Maurer_Rose
+cabana: true
 
 links:
   - title: "Maurer Rose Wikipedia"

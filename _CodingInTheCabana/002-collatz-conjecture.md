@@ -5,6 +5,7 @@ date: 2019-10-25
 video_id: EYLWxwo1Ed8
 web_editor: XjLDE7gu6
 repository: Cabana_002_Collatz_Conjecture
+cabana: true
 
 links:
   - title: "Collatz Conjecture Wikipedia"
